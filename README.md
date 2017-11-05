@@ -18,9 +18,9 @@ It was developed with Android Studio 3.0.0 with `minSdkVersion 16` using 100% of
 
 ## Screenshots
 
-![Main Screen](https://github.com/aramizu/themoviedb-android-java/blob/master/screen-1.png?raw=true)
-![Details Screen](https://github.com/aramizu/themoviedb-android-java/blob/master/screen-2.png?raw=true)
-![Search Screen](https://github.com/aramizu/themoviedb-android-java/blob/master/screen-3.png?raw=true)
+![Main Screen](https://github.com/aramizu/themoviedb-android-kotlin/blob/master/screen-1.png?raw=true)
+![Details Screen](https://github.com/aramizu/themoviedb-android-kotlin/blob/master/screen-2.png?raw=true)
+![Search Screen](https://github.com/aramizu/themoviedb-android-kotlin/blob/master/screen-3.png?raw=true)
 
 ## Getting Started
 
